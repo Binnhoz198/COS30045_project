@@ -29,24 +29,26 @@ All data is sourced from BITRE and reflects legal actions, tests conducted, and 
 
 ## 📦 Repository Structure
 
-/data
-└── cleaned_datasets/
-└── raw/
-└── KNIME_workflows/
+## 📁 Repository Structure
+
+**/data
+├── cleaned_datasets/
+├── raw/
+├── KNIME_workflows/
 └── data_dictionary.pdf
 
 /src
-└── charts/
-└── components/
-└── styles/
+├── charts/
+├── components/
+├── styles/
 └── utils/
 
 /docs
-└── project_design_book_draft.pdf
+├── project_design_book_draft.pdf
 └── standup_presentation.pptx
 
 index.html
-README.md
+README.md**
 
 
 ## 🧠 AI Assistance Declaration
