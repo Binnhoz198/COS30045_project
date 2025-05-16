@@ -5,7 +5,7 @@ This project visualises police enforcement data from the Bureau of Infrastructur
 
 ## 🚀 Purpose
 
-The goal is to create an interactive web-based tool that improves public understanding of road safety enforcement in Australia, and supports data-driven policy insights.
+The goal is to create an interactive web-based tool that improves public understanding of road safety enforcement in Australia and supports data-driven policy insights.
 
 ## 📊 Datasets Used
 
@@ -29,7 +29,21 @@ All data is sourced from BITRE and reflects legal actions, tests conducted, and 
 
 ## 📁 Repository Structure
 
-<pre> ## 📁 Repository Structure ``` /data ├── cleaned_datasets/ ├── raw/ ├── KNIME_workflows/ └── data_dictionary.pdf /src ├── charts/ ├── components/ ├── styles/ └── utils/ /docs ├── project_design_book_draft.pdf └── standup_presentation.pptx index.html README.md ``` </pre>
+/data
+  cleaned_datasets/
+  raw/
+  KNIME_workflows/
+  data_dictionary.pdf
+/src
+  charts/
+  components/
+  styles/
+  utils/
+/docs
+  project_design_book_draft.pdf
+  standup_presentation.pptx
+index.html
+README.md
 
 ## 🧠 AI Assistance Declaration
 
